@@ -1,0 +1,18 @@
+{
+  "event_id": "evt_20261004_000101",
+  "event_type": "harga.diperbarui",
+  "schema_version": 1,
+  "source": "pasaree",
+  "occurred_at": "2026-10-04T07:00:00+07:00",
+  "received_at": "2026-10-04T07:00:41+07:00",
+  "batch_id": "batch_pasaree_20261004_pagi",
+  "payload": {
+    "pasar_id": "psr_jakarta_timur_01",
+    "komoditas_id": "cmd_cabai_merah",
+    "tanggal": "2026-10-04",
+    "harga_per_kg": 42000,
+    "satuan": "kg",
+    "jumlah_sampel_lapak": 6,
+    "flag": "ok"
+  }
+}
