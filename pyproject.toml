@@ -8,5 +8,20 @@ dependencies = [
   "sqlalchemy==2.0.36",
 ]
 
+[project.optional-dependencies]
+dev = ["pytest>=8", "ruff>=0.6"]
+
 [tool.pytest.ini_options]
 testpaths = ["tests"]
+pythonpath = ["src"]
+
+[tool.ruff]
+line-length = 100
+target-version = "py312"
+src = ["src", "tests"]
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "UP", "B"]
+
+[tool.ruff.lint.per-file-ignores]
+"tests/*" = ["E501"]

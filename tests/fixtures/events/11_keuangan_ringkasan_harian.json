@@ -1,0 +1,17 @@
+{
+  "event_id": "evt_20261004_000111",
+  "event_type": "keuangan.ringkasan_harian",
+  "schema_version": 1,
+  "source": "lumbung",
+  "occurred_at": "2026-10-04T07:00:00+07:00",
+  "received_at": "2026-10-04T07:00:41+07:00",
+  "batch_id": "batch_lumbung_20261004_pagi",
+  "payload": {
+    "tanggal": "2026-10-03",
+    "omzet_idr": 48250000,
+    "margin_kotor_idr": 7210000,
+    "biaya_operasional_idr": 4350000,
+    "piutang_idr": 1200000,
+    "final": true
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "event_id": "evt_20261004_000106",
+  "event_type": "panen.dicatat",
+  "schema_version": 1,
+  "source": "lumbung",
+  "occurred_at": "2026-10-04T07:00:00+07:00",
+  "received_at": "2026-10-04T07:00:41+07:00",
+  "batch_id": "batch_lumbung_20261004_pagi",
+  "payload": {
+    "panen_id": "pn_20261001_0091",
+    "komoditas_id": "cmd_padi",
+    "lahan_ha": 1.25,
+    "hasil_kg": 6875.0,
+    "tanggal_panen": "2026-10-01",
+    "mutu": "A",
+    "kabupaten_id": "kab_karawang",
+    "keterangan": ""
+  }
+}

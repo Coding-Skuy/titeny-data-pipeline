@@ -1,0 +1,18 @@
+{
+  "event_id": "evt_20261004_000104",
+  "event_type": "transaksi.dibuat",
+  "schema_version": 1,
+  "source": "titipo",
+  "occurred_at": "2026-10-04T07:00:00+07:00",
+  "received_at": "2026-10-04T07:00:41+07:00",
+  "batch_id": "batch_titipo_20261004_pagi",
+  "payload": {
+    "transaksi_id": "trx_20261004_881201",
+    "komoditas_id": "cmd_telur_ayam",
+    "qty_kg": 2.0,
+    "harga_satuan": 28500,
+    "vendor_id": "vnd_keliling_014",
+    "zona_rute": "bekasi_utara",
+    "waktu": "2026-10-04T08:12:00+07:00"
+  }
+}
