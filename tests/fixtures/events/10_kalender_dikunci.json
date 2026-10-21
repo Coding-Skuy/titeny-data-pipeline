@@ -1,0 +1,21 @@
+{
+  "event_id": "evt_20261004_000110",
+  "event_type": "kalender.dikunci",
+  "schema_version": 1,
+  "source": "internal",
+  "occurred_at": "2026-10-04T07:00:00+07:00",
+  "received_at": "2026-10-04T07:00:41+07:00",
+  "batch_id": "batch_internal_20261004_pagi",
+  "payload": {
+    "tahun": 2027,
+    "baris": [
+      {
+        "tanggal": "2027-03-20",
+        "jenis_hari": "puasa",
+        "musim": "peralihan"
+      }
+    ],
+    "jumlah_baris": 1,
+    "dikunci_pada": "2026-12-01T00:00:00+07:00"
+  }
+}

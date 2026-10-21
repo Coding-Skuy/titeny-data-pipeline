@@ -1,0 +1,20 @@
+{
+  "event_id": "evt_20261004_000103",
+  "event_type": "stok.snapshot_harian",
+  "schema_version": 1,
+  "source": "lumbung",
+  "occurred_at": "2026-10-04T07:00:00+07:00",
+  "received_at": "2026-10-04T07:00:41+07:00",
+  "batch_id": "batch_lumbung_20261004_pagi",
+  "payload": {
+    "gudang_id": "gdg_bekasi_01",
+    "tanggal": "2026-10-03",
+    "baris": [
+      {
+        "komoditas_id": "cmd_beras_medium",
+        "stok_kg": 4850.0
+      }
+    ],
+    "jumlah_baris": 1
+  }
+}
