@@ -1,0 +1,16 @@
+{
+  "event_id": "evt_20261004_000108",
+  "event_type": "vendor.status_berubah",
+  "schema_version": 1,
+  "source": "titipo",
+  "occurred_at": "2026-10-04T07:00:00+07:00",
+  "received_at": "2026-10-04T07:00:41+07:00",
+  "batch_id": "batch_titipo_20261004_pagi",
+  "payload": {
+    "vendor_id": "vnd_keliling_014",
+    "jenis": "keliling",
+    "status_aktif": true,
+    "zona_operasi": "bekasi_utara",
+    "kapasitas_harian_kg": 120.0
+  }
+}
